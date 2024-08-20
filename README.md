@@ -1,8 +1,7 @@
 # Milestone-Effective-Task-Management-Web-app-MERN-stack-
 Developed a task management app using React JS for a  dynamic UI, Node JS and Express JS for backend APIs, and  MongoDB for user data storage.   Features include Login, Signup, Task Management (Add,  Remove, Categorize, Change Status), Task Summary  Dashboard, Live Progress Bar, Task Completion Sound, and  Easy Task Prioritization.
 <hr>
-# Project Presentation
-<br/>
+
 ![Screenshot (120)](https://github.com/user-attachments/assets/50da38bf-c003-49ff-8f73-bed88d38c186)
 ![Screenshot (121)](https://github.com/user-attachments/assets/bf1f1a3a-1e0f-40a2-9164-e91820fe47ab)
 ![Screenshot (122)](https://github.com/user-attachments/assets/f6d6c188-ecff-42e9-925b-d9bf804042bc)
